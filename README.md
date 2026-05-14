@@ -1,7 +1,7 @@
 # Using AWS CDK for Infrastructure as Code IAC
 
-**Published:** 2024-09-23
-**Medium:** [https://medium.com/@kyle-t-jones/using-aws-cdk-for-infrastructure-as-code-iac-00f7d1fd47cb](https://medium.com/@kyle-t-jones/using-aws-cdk-for-infrastructure-as-code-iac-00f7d1fd47cb)
+Published: 2024-09-23
+Medium: [https://medium.com/@kyle-t-jones/using-aws-cdk-for-infrastructure-as-code-iac-00f7d1fd47cb](https://medium.com/@kyle-t-jones/using-aws-cdk-for-infrastructure-as-code-iac-00f7d1fd47cb)
 
 ## About
 
